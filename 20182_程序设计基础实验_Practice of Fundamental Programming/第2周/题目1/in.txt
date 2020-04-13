@@ -1,0 +1,10 @@
+insert_at_beginning 1
+insert_at_beginning 2
+insert_at_ending 5
+insert_at_ending 6
+print -1
+delete 6
+insert_after 5 55
+delete 1
+print 3
+reverse_print -1

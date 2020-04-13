@@ -1,0 +1,256 @@
+----------
+test2.pl
+*Line 1
+ male	Atom
+ (	Symbol
+ di	Const
+ )	Symbol
+ .	Symbol
+*Line 2
+ male	Atom
+ (	Symbol
+ jianbo	Const
+ )	Symbol
+ .	Symbol
+*Line 3
+ female	Atom
+ (	Symbol
+ xin	Const
+ )	Symbol
+ .	Symbol
+*Line 4
+ female	Atom
+ (	Symbol
+ yuan	Const
+ )	Symbol
+ .	Symbol
+*Line 5
+ female	Atom
+ (	Symbol
+ yuqing	Const
+ )	Symbol
+ .	Symbol
+*Line 6
+ father	Atom
+ (	Symbol
+ jianbo	Const
+ ,	Symbol
+ di	Const
+ )	Symbol
+ .	Symbol
+*Line 7
+ father	Atom
+ (	Symbol
+ di	Const
+ ,	Symbol
+ yuqing	Const
+ )	Symbol
+ .	Symbol
+*Line 8
+ mother	Atom
+ (	Symbol
+ xin	Const
+ ,	Symbol
+ di	Const
+ )	Symbol
+ .	Symbol
+*Line 9
+ mother	Atom
+ (	Symbol
+ yuan	Const
+ ,	Symbol
+ yuqing	Const
+ )	Symbol
+ .	Symbol
+*Line 10
+ grandfather	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ :-	Symbol
+ father	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Z	Variable
+ )	Symbol
+ ,	Symbol
+ father	Atom
+ (	Symbol
+ Z	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ .	Symbol
+*Line 11
+ grandmother	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ :-	Symbol
+ mother	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Z	Variable
+ )	Symbol
+ ,	Symbol
+ father	Atom
+ (	Symbol
+ Z	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ .	Symbol
+*Line 12
+ daughter	Atom
+ (	Symbol
+ Y	Variable
+ ,	Symbol
+ X	Variable
+ )	Symbol
+ :-	Symbol
+ father	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ ,	Symbol
+ female	Atom
+ (	Symbol
+ Y	Variable
+ )	Symbol
+ .	Symbol
+----------
+test2.pl
+*Line 1
+ male	Atom
+ (	Symbol
+ di	Const
+ )	Symbol
+ .	Symbol
+*Line 2
+ male	Atom
+ (	Symbol
+ jianbo	Const
+ )	Symbol
+ .	Symbol
+*Line 3
+ female	Atom
+ (	Symbol
+ xin	Const
+ )	Symbol
+ .	Symbol
+*Line 4
+ female	Atom
+ (	Symbol
+ yuan	Const
+ )	Symbol
+ .	Symbol
+*Line 5
+ female	Atom
+ (	Symbol
+ yuqing	Const
+ )	Symbol
+ .	Symbol
+*Line 6
+ father	Atom
+ (	Symbol
+ jianbo	Const
+ ,	Symbol
+ di	Const
+ )	Symbol
+ .	Symbol
+*Line 7
+ father	Atom
+ (	Symbol
+ di	Const
+ ,	Symbol
+ yuqing	Const
+ )	Symbol
+ .	Symbol
+*Line 8
+ mother	Atom
+ (	Symbol
+ xin	Const
+ ,	Symbol
+ di	Const
+ )	Symbol
+ .	Symbol
+*Line 9
+ mother	Atom
+ (	Symbol
+ yuan	Const
+ ,	Symbol
+ yuqing	Const
+ )	Symbol
+ .	Symbol
+*Line 10
+ grandfather	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ :-	Symbol
+ father	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Z	Variable
+ )	Symbol
+ ,	Symbol
+ father	Atom
+ (	Symbol
+ Z	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ .	Symbol
+*Line 11
+ grandmother	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ :-	Symbol
+ mother	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Z	Variable
+ )	Symbol
+ ,	Symbol
+ father	Atom
+ (	Symbol
+ Z	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ .	Symbol
+*Line 12
+ daughter	Atom
+ (	Symbol
+ Y	Variable
+ ,	Symbol
+ X	Variable
+ )	Symbol
+ :-	Symbol
+ father	Atom
+ (	Symbol
+ X	Variable
+ ,	Symbol
+ Y	Variable
+ )	Symbol
+ ,	Symbol
+ female	Atom
+ (	Symbol
+ Y	Variable
+ )	Symbol
+ .	Symbol

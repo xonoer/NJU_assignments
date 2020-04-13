@@ -1,0 +1,113 @@
+初始手牌展示：
+Player 1（地主）: JOKER A A K K Q Q 10 10 9 8 7 7 7 6 6 5 5 4 4 
+Player 2（农民）: joker 2 A K K Q Q J J J 9 8 7 6 4 4 3 
+Player 3（农民）: 2 2 2 A J 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Game Start!
+
+Player 1: action: 7 7 6 6 5 5 4 4 
+Player 1: remain: JOKER A A K K Q Q 10 10 9 8 7 
+
+Player 2: action: pass.
+Player 2: remain: joker 2 A K K Q Q J J J 9 8 7 6 4 4 3 
+
+Player 3: action: pass.
+Player 3: remain: 2 2 2 A J 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: 7 
+Player 1: remain: JOKER A A K K Q Q 10 10 9 8 
+
+Player 2: action: 8 
+Player 2: remain: joker 2 A K K Q Q J J J 9 7 6 4 4 3 
+
+Player 3: action: J 
+Player 3: remain: 2 2 2 A 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: JOKER 
+Player 1: remain: A A K K Q Q 10 10 9 8 
+
+Player 2: action: pass.
+Player 2: remain: joker 2 A K K Q Q J J J 9 7 6 4 4 3 
+
+Player 3: action: pass.
+Player 3: remain: 2 2 2 A 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: 8 
+Player 1: remain: A A K K Q Q 10 10 9 
+
+Player 2: action: 9 
+Player 2: remain: joker 2 A K K Q Q J J J 7 6 4 4 3 
+
+Player 3: action: A 
+Player 3: remain: 2 2 2 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: pass.
+Player 1: remain: A A K K Q Q 10 10 9 
+
+Player 2: action: 2 
+Player 2: remain: joker A K K Q Q J J J 7 6 4 4 3 
+
+Player 3: action: pass.
+Player 3: remain: 2 2 2 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: pass.
+Player 1: remain: A A K K Q Q 10 10 9 
+
+Player 2: action: K K Q Q J J 
+Player 2: remain: joker A J 7 6 4 4 3 
+
+Player 3: action: pass.
+Player 3: remain: 2 2 2 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: A A K K Q Q 
+Player 1: remain: 10 10 9 
+
+Player 2: action: pass.
+Player 2: remain: joker A J 7 6 4 4 3 
+
+Player 3: action: pass.
+Player 3: remain: 2 2 2 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: 9 
+Player 1: remain: 10 10 
+
+Player 2: action: J 
+Player 2: remain: joker A 7 6 4 4 3 
+
+Player 3: action: pass.
+Player 3: remain: 2 2 2 10 10 9 9 8 8 6 5 5 3 3 3 
+
+Player 1: action: pass.
+Player 1: remain: 10 10 
+
+Player 2: action: 3 
+Player 2: remain: joker A 7 6 4 4 
+
+Player 3: action: 6 
+Player 3: remain: 2 2 2 10 10 9 9 8 8 5 5 3 3 3 
+
+Player 1: action: pass.
+Player 1: remain: 10 10 
+
+Player 2: action: 7 
+Player 2: remain: joker A 6 4 4 
+
+Player 3: action: pass.
+Player 3: remain: 2 2 2 10 10 9 9 8 8 5 5 3 3 3 
+
+Player 1: action: pass.
+Player 1: remain: 10 10 
+
+Player 2: action: 4 4 
+Player 2: remain: joker A 6 
+
+Player 3: action: 5 5 
+Player 3: remain: 2 2 2 10 10 9 9 8 8 3 3 3 
+
+Player 1: action: 10 10 
+Player 1: remain: No card remains.
+
+Game Over.
+Player 1: wins!
+
+

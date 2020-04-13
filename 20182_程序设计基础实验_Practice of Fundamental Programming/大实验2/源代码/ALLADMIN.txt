@@ -1,0 +1,4 @@
+user1	123456	Exam\1\user1\user1\user1\user1	Student\1\user1\user1\user1\user1	Purchase\1\user1\user1\user1\user1	Score\0\0\0\0\0	Book\1\user1\user1\user1\user1	CSStudent\1\user1\user1\user1\user1
+user2	123456	Exam\0\user1\0\0\0	Student\0\0\0\0\0	Purchase\0\0\user1\user1\0	Score\1\user2\user2\user2\user2	Book\0\0\0\0\0	CSStudent\0\0\0\0\0
+user3	123456	Exam\0\0\0\0\0	Student\0\0\0\0\0	Purchase\0\0\0\0\0	Score\0\0\0\0\0	Book\0\0\0\0\0	CSStudent\0\0\0\0\0
+user4	123456	Exam\0\0\0\0\0	Student\0\0\0\0\0	Purchase\0\0\0\0\0	Score\0\0\0\0\0	Book\0\0\0\0\0	CSStudent\0\0\0\0\0

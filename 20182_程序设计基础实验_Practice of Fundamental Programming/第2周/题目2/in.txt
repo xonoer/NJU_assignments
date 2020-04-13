@@ -1,0 +1,9 @@
+insert_at_root 1
+insert_at_root 2
+insert_after 2 3
+insert_after 2 4 
+insert_after 1 6
+print -1
+delete 6
+delete 1
+print -1

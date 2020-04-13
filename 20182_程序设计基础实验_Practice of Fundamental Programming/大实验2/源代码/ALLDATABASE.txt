@@ -1,0 +1,6 @@
+Exam	exam.txt	user1
+Student	student.txt	user1
+Purchase	purchase.txt	user1
+Score	score.txt	user2
+Book	book.txt	user1
+CSStudent	CSStudent.txt	user1
